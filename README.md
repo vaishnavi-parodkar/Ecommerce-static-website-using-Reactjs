@@ -1,7 +1,8 @@
 # Ecommerce Static Website using Reactjs
 This file contains instructions to configure and start ecommerce static website
 
-![image](https://github.com/user-attachments/assets/7b95456c-bc8c-409f-b45c-bba33888da8d)
+![image](https://github.com/user-attachments/assets/2539e35d-b615-4d49-bf5d-045c4dea19b3)
+
 
 ## 🚀 Features
 
